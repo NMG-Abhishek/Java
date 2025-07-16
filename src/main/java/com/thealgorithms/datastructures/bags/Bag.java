@@ -18,6 +18,7 @@ public class Bag<E> implements Iterable<E> {
     private int size; // Count of elements in the bag
 
     // Node class representing each element in the bag
+    // Testing
     private static final class Node<E> {
         private E content;
         private Node<E> nextElement;
