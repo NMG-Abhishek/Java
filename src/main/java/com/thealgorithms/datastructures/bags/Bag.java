@@ -23,7 +23,7 @@ public class Bag<E> implements Iterable<E> {
         private E content;
         private Node<E> nextElement;
     }
-
+    System.out.println
     /**
      * Constructs an empty bag.
      * <p>This initializes the bag with zero elements.
